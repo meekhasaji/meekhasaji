@@ -10,7 +10,7 @@
 - 👯 I’m interested in collaborating with Dev geeks like me.
 - 🤔 I’m looking for help with ML Algorithms
 - 💬 Ask me about Unit Testing, ADF.
-- 📫 How to reach me: meekhasaji10@gmail.com
+- 📫 How to reach me: meekha33@gmail.com
 - 😄 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
