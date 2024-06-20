@@ -5,24 +5,18 @@
 - 🔭 I’m currently working with Dockers, ADF, and Azure Synapse.  I'm passionate about Data Science, Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
 - 💭 My mission is to build solutions that solve high-impact problems for people around the globe and simplify everyday living using data insights.
-- 🌱 I’m currently learning Inferential Statistics, Kubernetes.
-- 👯 I’m interested in collaborating with Dev geeks like me.
-- 🤔 I’m looking for help with ML Algorithms
-- 💬 Ask me about Unit Testing, ADF.
+- 👯 I’m interested in collaborating on open-source data science projects
+- 💬 Ask me about Matillion, Azure ADF.
 - 📫 How to reach me: meekha33@gmail.com
 - 😄 Pronouns: she/her
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/meekhasaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="meekhasaji" height="30" width="40" /></a>
-<a href="https://kaggle.com/meekhasaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meekhasaji" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/meekha-e-saji/">
-  <img align="left" alt="Meekha's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
-</a>
-<a href="www.twitter.com/meekha_e_saji/">
-  <img align="left" alt="Meekha's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
-</a>
+<h3 align="left">Connect with me:
+<a href="https://www.linkedin.com/in/meekha-e-saji/">Linkedin</a> ,
+<a href="https://dev.to/meekhasaji" target="blank">Dev</a> ,
+<a href="www.twitter.com/meekha_e_saji/"> Twitter</a> ,
+<a href="https://kaggle.com/meekhasaji" target="blank">Kaggle</a>
 <br/>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.geeksforgeeks.org/csharp-programming-language/?ref=lbp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="80" height="40"/>
