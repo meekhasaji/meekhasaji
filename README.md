@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Meekha </h1>
 
 <h3 align="center">A passionate developer and data enthusiast.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meekhasaji7&label=Profile%20views&color=0e75b6&style=flat" alt="meekhasaji" /> </p>
 
 - 🔭 I’m currently working with Dockers, ADF, and Azure Synapse.  I'm passionate about Data Science, Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
